@@ -70,6 +70,7 @@ body {
     background: url(../img/home.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     color:#000;
     padding-top: 5%;
 }
